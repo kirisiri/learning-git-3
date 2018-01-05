@@ -1,5 +1,5 @@
 {
-  "name": "learning-git-2",
+  "name": "learning-git-3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirisiri/learning-git-2.git"
+    "url": "git+https://github.com/kirisiri/learning-git-3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kirisiri/learning-git-2/issues"
+    "url": "https://github.com/kirisiri/learning-git-3/issues"
   },
-  "homepage": "https://github.com/kirisiri/learning-git-2#readme",
+  "homepage": "https://github.com/kirisiri/learning-git-3#readme",
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.22.0",
